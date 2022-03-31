@@ -1,0 +1,8 @@
+@import './variables';
+@import './base';
+@import './mixins';
+
+@import '../components/molecules/styles/index.scss';
+@import '../components/organisms/styles/index.scss';
+@import '../components/templates/styles/index.scss';
+@import '../pages/styles/index.scss';
